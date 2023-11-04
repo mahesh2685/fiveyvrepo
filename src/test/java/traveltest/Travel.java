@@ -72,6 +72,11 @@ public class Travel extends BaseFramework
 		enterText(Locator.homeScreen_searchTextbox,"Shoes");
 	}
 
+	@Test
+	public void m1()
+	{
+		System.out.println("New added test case");
+	}
 }
 
 
